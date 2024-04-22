@@ -1,6 +1,6 @@
 # Machine Learning with Normative Modeling Tutorial 
-## Computational Psychiatry Course 2023
-This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) 2023.
+## ESCAN 2024: Normative modelling for affective and cognitive neuroscience: applications and a hands-on tutorial
+This repository contains written instructions, links to code, and data used for the Normative Modeling tutorial at  [ESCAN 2024]([https://escan2024.com/]).
 
 ## Overview tutorial
 In this tutorial you will learn:
@@ -27,7 +27,7 @@ Other helpful pandas:panda_face:/plotting:bar_chart: links (not required to do d
 
 
 ## Video
-If you did not have the chance to follow the lecture live at the CPC course here is an alternative presentation given by [Andre Marquand](https://twitter.com/amarquand?lang=en) on Normative modelling:
+If you are interested in some pre-reading, you can watch an introduction to Normative Modelling lecture, given by [Andre Marquand](https://twitter.com/amarquand?lang=en), here:
 
 [![normative modelling lecture](https://img.youtube.com/vi/8YX1K_ln14k/maxresdefault.jpg)](https://www.youtube.com/watch?v=8YX1K_ln14k&t=3s)
 
