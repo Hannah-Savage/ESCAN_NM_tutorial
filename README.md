@@ -1,6 +1,6 @@
 # Machine Learning with Normative Modeling Tutorial 
 ## ESCAN 2024: Normative modelling for affective and cognitive neuroscience: applications and a hands-on tutorial
-This repository contains written instructions, links to code, and data used for the Normative Modeling tutorial at  [ESCAN 2024]([https://escan2024.com/]).
+This repository contains written instructions, links to code, and data used for the Normative Modelling tutorial at [ESCAN 2024]([https://escan2024.com/]).
 
 ## Overview tutorial
 In this tutorial you will learn:
