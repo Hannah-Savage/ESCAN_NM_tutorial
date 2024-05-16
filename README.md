@@ -13,7 +13,7 @@ This repository is a group effort by [Saige Rutherford](https://twitter.com/bein
 ## Prerequisite knowledge
 We will be running all of our code in Google Colab Python notebooks. These are essentially Jupyter notebooks run in the :cloud: *cloud* :cloud:. 
 Running our code using Colab will save us from dealing with python library installation and virtual environment setup. 
-It also ensures that we are all working on the same operating system which makes troubleshooting much easier (since there are only 2 instructors and lots of students)! 
+It also ensures that we are all working on the same operating system which makes troubleshooting much easier (since there is only 1 instructor and lots of atendees)! 
 
 In general, it is assumed that you have some basic experience with Python programming, for an in-depth introduction you can look at the free [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). Furthermore, the [neuromatch academy](https://compneuro.neuromatch.io/tutorials/intro.html) has some great resources. 
 
